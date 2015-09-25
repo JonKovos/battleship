@@ -1,2 +1,2 @@
-# battleship
+# Battleships
 Battleships the game on PC!
